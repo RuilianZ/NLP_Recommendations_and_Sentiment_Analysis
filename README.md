@@ -1,2 +1,6 @@
-# NLP_Recommendations_and_Sentiment_Analysis
-Generate recommendations using LDA topic model, perform sentiment analysis
+# NLP: Recommendations and Sentiment Analysis
+
+Perform two common NLP tasks:
+
+1. Generate recommendations for products based on product descriptions using an LDA topic model.
+2. Perform sentiment analysis based on product reviews using sklearn Pipelines.
